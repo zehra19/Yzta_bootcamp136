@@ -55,15 +55,22 @@ bir arada sunan, AI destekli bir öğrenme asistanı.
 - JSON formatında çıkmış soru verisi yapısı netleşti.
 - Streamlit arayüzü temel yapısıyla başlatıldı.
 
-## 🎯Tahmin Edilen Puan: 50  
-##  Tamamlanan Puan: 40  
+## 🎯 Tahmini Puan: 50  
+## ✅ Tamamlanan Puan: 30
 
-## Puan Tamamlama Mantığı:
-- 10 puan: Kullanıcı girişi → ✅
-- 10 puan: Spot bilgi üretimi → ✅
-- 10 puan: JSON yapısı → ✅
-- 10 puan: UI iskeleti → ✅
-- 10 puan: PDF indirme → ⏳ yapılacak
+### 🧮 Puanlama Tablosu
+
+| Görev                          | Puan | Durum     | Açıklama                                                                 |
+|-------------------------------|------|-----------|--------------------------------------------------------------------------|
+| Kullanıcı girişi fikri        | 5    | ✅         | Kullanıcıdan konu alma fikri net, kodlama henüz yok.                     |
+| Spot bilgi üretimi fikri      | 5    | ✅         | GPT ile spot üretimi test edildi, tam entegrasyon yapılmadı.             |
+| JSON yapısı planı             | 5    | ✅         | Yapı kurgulandı, dosya içeriği henüz tamamlanmadı.                        |
+| Arayüz (UI) taslak fikri      | 10   | ✅         | Streamlit üzerinden örnek ekran üretildi, fikir sunuldu.                 |
+| PDF çıktısı                   | 0    | ⏳         | Planlandı ama kodlama başlamadı.                                         |
+| Çıkma istatistiği (opsiyonel) | 5    | 🔄 Planlandı | Opsiyonel olarak düşünülüyor, teknik detaylar belirlenmiş değil.        |
+
+### 🔚 Toplam: **30 / 50 Puan**
+
 
 ---
 
