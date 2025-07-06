@@ -70,7 +70,7 @@ bir arada sunan, AI destekli bir öğrenme asistanı.
 📎 [https://github.com/ysmnyklmz/TUScope/blob/main/trello_board.png]
 
 ##  Ürün Ekran Görüntüsü (Taslak):
-📎 [https://github.com/ysmnyklmz/TUScope/blob/main/spot_ekran.png]
+📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/spot_ekran.png]
 
 ---
 
