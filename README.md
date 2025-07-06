@@ -3,10 +3,14 @@
 ## 👥 Takım İsmi:
 **YZTA_136**
 
-## 🧑‍🤝‍🧑 Takım Üyeleri ve Rolleri:
-- **Yasemin Yıkılmaz** – Scrum Master / Developer
-- **Zehra Nur Yavaşoğlu** –Product Owner  / Developer
-- **Furkan Akın** -Developer
+## 🧑‍🤝‍🧑 Takım Üyeleri ve Rolleri
+
+| İsim               | Rol 1          | Rol 2        |
+|--------------------|----------------|--------------|
+| Yasemin Yıkılmaz   | Scrum Master   | Developer    |
+| Zehra Nur Yavaşoğlu| Product Owner  | Developer    |
+| Furkan Akın        | Developer      | -            |
+
 
 ## Ürün İsmi:
 **TUScope**
