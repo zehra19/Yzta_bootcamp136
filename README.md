@@ -1,5 +1,13 @@
 # 🧠 TUScope – TUS Çıkmış Soru ve Spot Bilgi Asistanı
 
+
+<p align="center">
+  <img src="images/tuscope_logo.png" alt="TUScope Logo" width="250"/>
+</p>
+
+<h1 align="center">🧠 TUScope</h1>
+<p align="center">TUS Çıkmış Soru ve Spot Bilgi Asistanı</p>
+
 ## 👥 Takım İsmi:
 **YZTA_136**
 
