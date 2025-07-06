@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="images/tuscope_logo.png" alt="TUScope Logo" width="250"/>
+  <img src="https://github.com/zehra19/Yzta_bootcamp136/blob/main/TUScope.png" alt="TUScope Logo" width="250"/>
 </p>
 
 <h1 align="center">🧠 TUScope</h1>
