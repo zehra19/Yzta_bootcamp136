@@ -17,7 +17,7 @@
 |--------------------|----------------|--------------|
 | Yasemin Yıkılmaz   | Scrum Master   | Developer    |
 | Zehra Nur Yavaşoğlu| Product Owner  | Developer    |
-| Furkan Akın        | Developer      | -            |
+| Furkan Akın        | Developer      | Developer            |
 
 
 ## Ürün İsmi:
