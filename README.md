@@ -86,7 +86,7 @@ bir arada sunan, AI destekli bir öğrenme asistanı.
 📎 Whatsapp üzerinden iletişim kurduk.
 
 ## Sprint Board (Trello / Miro):
-📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/trello_board.png]
+📎 []
 
 ##  Ürün Ekran Görüntüsü (Taslak):
 📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/spot_ekran.png]
