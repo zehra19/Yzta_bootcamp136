@@ -85,7 +85,7 @@ bir arada sunan, AI destekli bir öğrenme asistanı.
 ---
 
 ## Daily Scrum Görseli:
-📎 Whatsapp üzerinden iletişim kurduk. [https://github.com/zehra19/Yzta_bootcamp136/blob/main/Ekran%20Resmi%202025-07-09%2018.14.55.png]
+📎 Whatsapp üzerinden iletişim kurduk. Görev dağılımlarını yaptık  [https://github.com/zehra19/Yzta_bootcamp136/blob/main/Ekran%20Resmi%202025-07-09%2018.14.55.png]
 
 ## Sprint Board (Trello / Miro):
 📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/Ekran%20Resmi%202025-07-06%2023.32.35.png]
