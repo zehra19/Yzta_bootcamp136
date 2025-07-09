@@ -56,6 +56,8 @@ bir arada sunan, AI destekli bir öğrenme asistanı.
 
 ---
 
+
+
 ##  Sprint 1 Notları:
 
 - Ürün fikri kesinleşti ve ekip üyeleri rolleri benimsedi.
@@ -83,7 +85,7 @@ bir arada sunan, AI destekli bir öğrenme asistanı.
 ---
 
 ## Daily Scrum Görseli:
-📎 Whatsapp üzerinden iletişim kurduk.
+📎 Whatsapp üzerinden iletişim kurduk. 
 
 ## Sprint Board (Trello / Miro):
 📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/Ekran%20Resmi%202025-07-06%2023.32.35.png]
