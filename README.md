@@ -150,7 +150,7 @@ Kullanıcının filtreleme, istatistiksel veri görüntüleme, spot bilgi alma v
 ## 🗓️ Daily Scrum Görseli:
 
 📎 Herkes görev dağılımına göre işlerini halletti.  
-📎 
+📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/sprint%202.png]
 📎 
 
 
