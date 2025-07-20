@@ -161,7 +161,7 @@ Kullanıcının filtreleme, istatistiksel veri görüntüleme, spot bilgi alma v
 
 [Sprint Board Görseli]
 
-📎 []
+📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/sprint%202%20board.png]
 
 
 
