@@ -107,56 +107,65 @@ bir arada sunan, AI destekli bir öğrenme asistanı.
 - Roller doğru paylaşıldı, sprint planına sadık kal
 
 
-## 🚀 Sprint 2 Notları:
+## 📌 Sprint 2 - Görev Dağılımı ve Takibi
 
-- GPT spot bilgi üretimi arayüz ile entegre edilmeye başlandı.
-- JSON dosyasından çıkmış soru verisi arayüzde listelenmeye başlandı.
-- PDF çıktısı alma ve UI düzenlemeleri planlandı.
-- Projenin test süreci için temel senaryolar belirlendi.
-- README güncellenerek süreç dokümante edilmeye başlandı.
-
-### 🎯 Tahmini Puan: 50  
-### ✅ Tamamlanan Puan: 20
-
-### 🧮 Puanlama Tablosu
-
-| Görev                     | Puan | Durum         | Açıklama                                                                 |
-|---------------------------|------|---------------|--------------------------------------------------------------------------|
-| GPT spot bilgi entegrasyonu | 10   | ✅ Yapıldı      | Kullanıcıdan konu alınıp GPT'den spot bilgi çekme arayüzü yazıldı.       |
-| JSON veri gösterimi        | 10   | ✅ Yapıldı      | Konuya göre geçmiş TUS soruları arayüzde gösterilmeye başlandı.          |
-| PDF çıktısı alma           | 10   | 🔄 Yapılıyor   | Spot bilgilerin PDF'e dönüştürülmesi planlandı, kodlamaya başlanmadı.    |
-| UI düzenlemeleri           | 10   | 🔄 Yapılıyor   | Sayfa düzeni sadeleştirilecek, kullanıcı dostu tasarım uygulanacak.      |
-| Test ve hata ayıklama      | 5    | 🔜 Planlandı   | Tüm özelliklerin test edilip eksiklerin belirlenmesi planlandı.          |
-| README güncelleme          | 5    | 🔜 Planlandı   | Sprint 2 gelişmeleri README’ye eklenecek.                                |
-
-### 🔚 Toplam: **20 / 50 Puan**
+### 🎯 Amaç
+Kullanıcının filtreleme, istatistiksel veri görüntüleme, spot bilgi alma ve geri bildirim sağlama işlemlerini gerçekleştirebildiği daha fonksiyonel bir arayüz oluşturmak.
 
 ---
+
+### ✅ Görev Tablosu
+
+| No  | Görev Adı                                                       | Atanan Kişi | Açıklama                                                                                                                                               | Durum         |
+|-----|------------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+| 1   | Konu Bazlı Soru Filtreleme Özelliği                             | Zehra       | Kullanıcının JSON verisi üzerinden soruları konuya göre filtreleyebilmesi sağlandı. Arayüze filtre seçenekleri eklendi.                              | ✅ Tamamlandı |
+| 2   | Streamlit Üzerinde Konu Bazlı Soru Listeleme Sayfası            | Yasemin     | Kullanıcı filtreleme sonrası sadece ilgili soruları görebilecek. Sayfa tasarımı ve veri çekimi tamamlandı.                                           | ✅ Tamamlandı |
+| 3   | İstatistiksel Özelliklerin Hazırlanması                         | Furkan      | JSON üzerinden toplam soru sayısı, doğru cevap oranı gibi temel istatistiksel bilgiler çıkarıldı.                                                    | ✅ Tamamlandı |
+| 4   | Spot Bilgi Alanının Dinamik Hale Getirilmesi                    | Furkan      | Spot bilgiler ayrı bir dosyadan çekilecek. Soru ile ilişkili bilgiler kullanıcıya gösterilecek.                                                       | 🔄 Devam Ediyor |
+| 5   | Kullanıcı Geri Bildirim Butonu Oluşturulması                    | Zehra       | Kullanıcılar sorular hakkında yorum ya da geri bildirim bırakabilecek. Streamlit butonlarıyla geliştirilecek.                                        | ⏳ Başlanacak |
+| 6   | README Dosyasının Güncellenmesi                                 | Yasemin     | Yeni özellikler, görev dağılımı ve kurulum bilgileri README dosyasına eklenecek.                                                                      | ⏳ Başlanacak |
+| 7   | PDF Çıktısı Geliştirme (Ekstra Görev - Sprint Board'dan)        | Zehra       | Kullanıcının içerikleri PDF olarak indirebilmesi için çıktı sistemi geliştirilecek.                                                                  | ⏳ To Do       |
+
+---
+
+### 📊 Sprint Panosu
+
+| Durum            | Görevler                                                                                 |
+|------------------|-------------------------------------------------------------------------------------------|
+| ✅ **Done**       | Konu bazlı filtreleme arayüzü, Soru listeleme sayfası, İstatistiksel analiz altyapısı    |
+| 🔄 **In Progress**| Spot bilgi üretimi ekranı (Furkan)                                                        |
+| ⏳ **To Do**      | Geri bildirim butonu (Zehra), README güncellemesi (Yasemin), PDF çıktısı geliştirme (Zehra) |
+
+---
+
+### 👥 Katılımcılar
+
+| İsim     | Sorumluluklar                                                                 |
+|----------|--------------------------------------------------------------------------------|
+| **Zehra**   | Filtreleme arayüzü, kullanıcı geri bildirimi, PDF çıktısı geliştirme          |
+| **Yasemin** | Soru listeleme sayfası, README güncelleme                                    |
+| **Furkan**  | Spot bilgi ekranı, istatistiksel veri işleme                                 |
+
 
 ## 🗓️ Daily Scrum Görseli:
 
 📎 Herkes görev dağılımına göre işlerini halletti.  
-📎  
 📎 
+📎 
+
+
 
 ## 📌 Sprint Board (Trello / Miro):
 
-📎 [Sprint Board Görseli](https://github.com/zehra19/Yzta_bootcamp136/blob/main/sprint%20board.png)
+📎 [Sprint Board Görseli]
 
-## 🖼️ Ürün Ekran Görüntüsü (Güncel Taslak):
 
-📎 
 
-## ✅ Sprint 2 Review:
-
-- GPT ile anlık spot bilgi üretimi başarıyla arayüze entegre edildi.
-- JSON yapıdaki soru verisi arayüzde okunabilir hale getirildi.
-- Proje demo için kullanılabilecek görsel bir seviyeye ulaştı.
-- Jüri sunumu için çıktılar planlandı.
 
 ## 🔁 Sprint 2 Retrospektif:
 
 - Görev dağılımları Sprint planına göre sürdü.
 - Zaman yönetimi bazı alanlarda sıkıştı, PDF ve test süreci Sprint 3'e taşınabilir.
 - Takım içi iletişim güçlüydü, teknik destek hızlı sağlandı.
+
 
