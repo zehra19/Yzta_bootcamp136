@@ -151,7 +151,7 @@ Kullanıcının filtreleme, istatistiksel veri görüntüleme, spot bilgi alma v
 
 📎 Herkes görev dağılımına göre işlerini halletti.  
 📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/sprint%202.png]
-📎 
+📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/sprintt2.jpg]
 
 
 
