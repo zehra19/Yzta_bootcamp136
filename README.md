@@ -137,6 +137,30 @@ Kullanıcının filtreleme, istatistiksel veri görüntüleme, spot bilgi alma v
 | ⏳ **To Do**      | Geri bildirim butonu (Zehra), README güncellemesi (Yasemin), PDF çıktısı geliştirme (Zehra) |
 
 ---
+## 📊 Tahmin Edilen Puan ve Tamamlanan Puan
+
+| Görev                                              | Atanan  | Tahmini Puan | Tamamlanan Puan |
+|----------------------------------------------------|---------|---------------|------------------|
+| Konu Bazlı Soru Filtreleme                         | Zehra   | 3             | 3                |
+| Konu Bazlı Listeleme Sayfası                       | Yasemin | 2             | 2                |
+| İstatistiksel Verilerin Çıkarılması                | Furkan  | 3             | 3                |
+| Spot Bilgi Ekranı                                   | Furkan  | 5             | 3                |
+| Geri Bildirim Butonu                               | Zehra   | 2             | 0                |
+| README Güncellemesi                                | Yasemin | 1             | 0                |
+| PDF Çıktısı Özelliği                               | Zehra   | 2             | 0                |
+
+> 🧮 **Toplam Tahmini Puan:** 18  
+> ✅ **Tamamlanan Puan:** 11  
+> 🔺 **Tamamlanma Oranı:** %61
+
+---
+
+## 📘 Puan Tamamlama Mantığı
+- Her görev için puanlar, zorluk derecesine göre Scrum puanlaması ile (Fibonacci veya basit sayı sistemi) belirlendi.
+- Tamamlanan her görev, görev kartı tamamlandı olarak işaretlenince sprint puanına eklendi.
+- Yarım kalan görevlerin puanı sayılmadı.
+
+---
 
 ### 👥 Katılımcılar
 
