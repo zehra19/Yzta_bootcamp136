@@ -1,0 +1,212 @@
+{
+    "Anatomi": {
+        "spot_bilgiler": [
+            "Kalp dört odacıklıdır.",
+            "Karaciğer en büyük iç organdır."
+        ],
+        "sorular": [
+            {
+                "soru": "Kalbin sağ kulakçığından hangi damar çıkar?",
+                "secenekler": [
+                    "Aort",
+                    "Pulmoner Arter",
+                    "Vena Cava",
+                    "Koroner Arter"
+                ],
+                "cevap": "Pulmoner Arter",
+                "yil": 2021
+            },
+            {
+                "soru": "Karaciğerin ana fonksiyonu nedir?",
+                "secenekler": [
+                    "İnsülin üretimi",
+                    "Safra üretimi",
+                    "Oksijen taşınması",
+                    "Kan pıhtılaşması"
+                ],
+                "cevap": "Safra üretimi",
+                "yil": 2022
+            }
+        ]
+    },
+    "Biyokimya": {
+        "spot_bilgiler": [
+            "DNA çift sarmaldır.",
+            "Enzimler reaksiyon hızını artırır."
+        ],
+        "sorular": [
+            {
+                "soru": "DNA'nın yapı taşı nedir?",
+                "secenekler": [
+                    "Nükleotit",
+                    "Aminoasit",
+                    "Yağ asidi",
+                    "Monosakkarit"
+                ],
+                "cevap": "Nükleotit",
+                "yil": 2020
+            },
+            {
+                "soru": "Enzimler hangi yapıdadır?",
+                "secenekler": [
+                    "Karbonhidrat",
+                    "Protein",
+                    "Lipit",
+                    "Vitamin"
+                ],
+                "cevap": "Protein",
+                "yil": 2021
+            }
+        ]
+    },
+    "Fizyoloji": {
+        "spot_bilgiler": [
+            "Nöronlar uyarı iletiminden sorumludur.",
+            "Oksijen kanda hemoglobine bağlanır."
+        ],
+        "sorular": [
+            {
+                "soru": "Beynin en büyük bölümü hangisidir?",
+                "secenekler": [
+                    "Beyincik",
+                    "Beyin Sapı",
+                    "Beyin",
+                    "Omurilik"
+                ],
+                "cevap": "Beyin",
+                "yil": 2019
+            },
+            {
+                "soru": "Hemoglobin hangi molekülü taşır?",
+                "secenekler": [
+                    "Karbon",
+                    "Oksijen",
+                    "Azot",
+                    "Karbonhidrat"
+                ],
+                "cevap": "Oksijen",
+                "yil": 2021
+            }
+        ]
+    },
+    "Farmakoloji": {
+        "spot_bilgiler": [
+            "Parasempatomimetikler asetilkolin etkisi gösterir.",
+            "Beta blokerler kalp hızını düşürür."
+        ],
+        "sorular": [
+            {
+                "soru": "Parasempatik sistem hangi nörotransmitter ile çalışır?",
+                "secenekler": [
+                    "Adrenalin",
+                    "Asetilkolin",
+                    "Dopamin",
+                    "Serotonin"
+                ],
+                "cevap": "Asetilkolin",
+                "yil": 2020
+            },
+            {
+                "soru": "Beta blokerler hangi organ üzerinde etkilidir?",
+                "secenekler": [
+                    "Böbrek",
+                    "Kalp",
+                    "Akciğer",
+                    "Karaciğer"
+                ],
+                "cevap": "Kalp",
+                "yil": 2021
+            }
+        ]
+    },
+    "Mikrobiyoloji": {
+        "spot_bilgiler": [
+            "Bakteriler tek hücrelidir.",
+            "Virüsler zorunlu hücre içi parazittir."
+        ],
+        "sorular": [
+            {
+                "soru": "Hangi mikroorganizma zorunlu hücre içi parazittir?",
+                "secenekler": [
+                    "Bakteri",
+                    "Mantar",
+                    "Virüs",
+                    "Alg"
+                ],
+                "cevap": "Virüs",
+                "yil": 2021
+            },
+            {
+                "soru": "Bakteriler kaç hücrelidir?",
+                "secenekler": [
+                    "Tek",
+                    "Çok",
+                    "Hiç",
+                    "Değişken"
+                ],
+                "cevap": "Tek",
+                "yil": 2020
+            }
+        ]
+    },
+    "Patoloji": {
+        "spot_bilgiler": [
+            "Kanser hücreleri kontrolsüz bölünür.",
+            "Nekroz geri dönüşümsüz hücre ölümüdür."
+        ],
+        "sorular": [
+            {
+                "soru": "Geri dönüşümsüz hücre ölümü nedir?",
+                "secenekler": [
+                    "Apoptoz",
+                    "Nekroz",
+                    "Otophaji",
+                    "Fibroz"
+                ],
+                "cevap": "Nekroz",
+                "yil": 2019
+            },
+            {
+                "soru": "Kontrolsüz hücre bölünmesi sonucu ne oluşur?",
+                "secenekler": [
+                    "Tümör",
+                    "Kist",
+                    "Granülom",
+                    "Apse"
+                ],
+                "cevap": "Tümör",
+                "yil": 2021
+            }
+        ]
+    },
+    "Histoloji": {
+        "spot_bilgiler": [
+            "Epitel dokular yüzeyleri örter.",
+            "Kan dokusu sıvı bağ dokusudur."
+        ],
+        "sorular": [
+            {
+                "soru": "Epitel doku hangi görevi yapar?",
+                "secenekler": [
+                    "Destek",
+                    "Taşıma",
+                    "Yüzey Örtme",
+                    "Kasılma"
+                ],
+                "cevap": "Yüzey Örtme",
+                "yil": 2020
+            },
+            {
+                "soru": "Kan dokusu hangi doku tipidir?",
+                "secenekler": [
+                    "Bağ dokusu",
+                    "Kas dokusu",
+                    "Sinir dokusu",
+                    "Epitel"
+                ],
+                "cevap": "Bağ dokusu",
+                "yil": 2021
+            }
+        ]
+    }
+}
