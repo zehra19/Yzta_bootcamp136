@@ -292,6 +292,14 @@ Tarayıcıda açılacak: **http://localhost:8501**
 
 ---
 
+
+<p align="center">
+  <img src="https://github.com/zehra19/Yzta_bootcamp136/commit/90b9f7df3406471dc4df858abc6503e3032f8059" alt="TUScope Logo" width="250"/>
+</p>
+
+<h1 align="center">🧠 TUScope</h1>
+<p align="center">Uygulama Açılış</p>
+
 ### 📝 Yasemin’in Sprint 3 Notu
 Bu sprintte projenin tüm hedefleri tamamlandı:  
 - 7 bölümlük quiz sistemi  
