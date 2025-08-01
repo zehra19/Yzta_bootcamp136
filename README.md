@@ -270,15 +270,15 @@ Bu sprint ile TUScope Mini projesi tamamlandı! 🎉
 ### Uygulama'nın Terminelde açılımı
 [Uygulama Açılımı] 
 
-📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/assets/Ekran%20Resmi%202025-08-02%2001.45.01.png]
-📎 [https://github.com/zehra19/Yzta_bootcamp136/commit/dae213cf5db5c91e5972d557890e9864f772910b]
+📎[https://github.com/zehra19/Yzta_bootcamp136/blob/main/assets/Ekran%20Resmi%202025-08-02%2001.45.01.png]
+📎[https://github.com/zehra19/Yzta_bootcamp136/commit/dae213cf5db5c91e5972d557890e9864f772910b]
 
 ### 7 Bölüm Arayüzü
 
 [TUScope Mini]
 [Uygulama Bölümleri]
-📎 [https://github.com/zehra19/Yzta_bootcamp136/commit/aca00020c76177cc895ed5b7a31ccea26093a130]
-📎 [https://github.com/zehra19/Yzta_bootcamp136/commit/9901b93faf387b9897e138e35a6108c2d83386a6]
+📎[https://github.com/zehra19/Yzta_bootcamp136/commit/aca00020c76177cc895ed5b7a31ccea26093a130]
+📎[https://github.com/zehra19/Yzta_bootcamp136/commit/9901b93faf387b9897e138e35a6108c2d83386a6]
 
 ---
 
