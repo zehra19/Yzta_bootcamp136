@@ -278,6 +278,8 @@ Bu sprint ile TUScope Mini projesi tamamlandı! 🎉
 
 [TUScope Mini]
 [Uygulama Bölümleri]
+
+
    📎[https://github.com/zehra19/Yzta_bootcamp136/commit/aca00020c76177cc895ed5b7a31ccea26093a130]
    
    📎[https://github.com/zehra19/Yzta_bootcamp136/commit/9901b93faf387b9897e138e35a6108c2d83386a6]
