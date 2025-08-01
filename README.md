@@ -271,17 +271,13 @@ Bu sprint ile TUScope Mini projesi tamamlandı! 🎉
 [Uygulama Açılımı] 
 
 📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/assets/Ekran%20Resmi%202025-08-02%2001.45.01.png]
-
-
-### Farmakoloji Soruları
-[Farmakoloji]
-
-📎 []
+📎
 
 ### 7 Bölüm Arayüzü
 [TUScope Mini]
 
 📎 []
+📎 [https://github.com/zehra19/Yzta_bootcamp136/commit/9901b93faf387b9897e138e35a6108c2d83386a6]
 
 ---
 
