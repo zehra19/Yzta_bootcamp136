@@ -196,3 +196,107 @@ Kullanıcının filtreleme, istatistiksel veri görüntüleme, spot bilgi alma v
 - Takım içi iletişim güçlüydü, teknik destek hızlı sağlandı.
 
 
+# 🏆 Sprint 3 - TUScope Mini (Final Sprint)
+
+Merhaba! Ben **Yasemin** 👋  
+Bu sprint, **TUScope Mini** projesinin **son sprinti** oldu.  
+Amacım, TUS’a hazırlanan öğrenciler için 7 ana ders kategorisinde spot bilgiler ve mini testler sunan interaktif bir uygulamayı tamamlamaktı.  
+
+---
+
+## 📌 Sprint 3 Hedeflerim
+- 7 bölümlük quiz sistemini tamamlamak  
+- Spot bilgileri eklemek  
+- Doğru/yanlış geri bildirimleri ve doğru sayısı göstermek  
+- Streamlit arayüzünü son hâline getirmek  
+- Uygulamayı test edip ekran görüntüleri almak  
+
+---
+
+## 🛠️ Yaptıklarım ve Puanlamam
+
+### 1️⃣ 7 Bölümlük Quiz Sistemi Kurulumu (25/25)
+- **Yaptığım İş:**  
+  - Anatomi, Biyokimya, Fizyoloji, Farmakoloji, Mikrobiyoloji, Patoloji ve Histoloji olmak üzere **7 bölüm** ekledim.  
+  - Her bölüm için **2 soru** olacak şekilde mini quizler tasarladım.  
+- **Sonuç:** Kullanıcılar istediği bölümü seçip iki soruluk mini testi çözebiliyor.  
+- **Puan:** ✅ 25/25
+
+---
+
+### 2️⃣ Spot Bilgiler Ekleme (15/15)
+- **Yaptığım İş:**  
+  - Her dersin başına, soruları çözmeden önce hızlıca gözden geçirilebilecek **spot bilgiler** ekledim.  
+  - Örnek:  
+    - *Farmakoloji:* “Parasempatolitikler asetilkolin etkisini gösterir.”  
+- **Puan:** ✅ 15/15
+
+---
+
+### 3️⃣ Doğru/Yanlış Geri Bildirimi ve Skor (20/20)
+- **Yaptığım İş:**  
+  - Kullanıcı bir cevabı seçtiğinde anında **Doğru!** veya **Yanlış!** mesajı gösteriliyor.  
+  - Yanlışsa doğru cevabı da gösterdim.  
+  - Quiz sonunda **Toplam Doğru Sayısı** ekledim.  
+- **Puan:** ✅ 20/20
+
+---
+
+### 4️⃣ Streamlit Arayüzü ve Kullanıcı Deneyimi (20/20)
+- **Yaptığım İş:**  
+  - Dropdown menü ile **bölüm seçimi**  
+  - Doğru cevapta **yeşil kutu**, yanlış cevapta **kırmızı kutu**  
+  - Temiz ve minimal bir tasarım  
+- **Puan:** ✅ 20/20
+
+---
+
+### 5️⃣ Test ve Ekran Görüntüleri (10/10)
+- **Yaptığım İş:**  
+  - Tüm uygulamayı test ettim ve soruların doğru/yanlış çalıştığını kontrol ettim.  
+  - **3 farklı ekran görüntüsü** aldım ve README’ye ekledim.  
+- **Puan:** ✅ 10/10
+
+---
+
+## 📊 Sprint 3 Toplam Puan
+**90/90 ✅**  
+Bu sprint ile TUScope Mini projesi tamamlandı! 🎉  
+
+---
+
+## 📸 Ekran Görüntüleri
+
+### Mikrobiyoloji Soruları
+![Mikrobiyoloji](./Ekran%20Resmi%202025-08-02%2001.42.38.png)
+
+### Farmakoloji Soruları
+![Farmakoloji](./Ekran%20Resmi%202025-08-02%2001.43.21.png)
+
+### 7 Bölüm Arayüzü
+![TUScope Mini](./Ekran%20Resmi%202025-08-02%2001.45.01.png)
+
+---
+
+## 🚀 Uygulamayı Çalıştırmak
+
+```bash
+streamlit run TUScopeMini.py
+```
+
+Tarayıcıda açılacak: **http://localhost:8501**  
+
+---
+
+### 📝 Yasemin’in Sprint 3 Notu
+Bu sprintte projenin tüm hedefleri tamamlandı:  
+- 7 bölümlük quiz sistemi  
+- Spot bilgiler  
+- Doğru/yanlış geri bildirimleri  
+- Skor hesaplama  
+- Arayüz ve testler  
+
+TUScope Mini artık **kullanıma hazır** ✅
+
+
+
