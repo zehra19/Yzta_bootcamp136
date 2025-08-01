@@ -85,14 +85,14 @@ bir arada sunan, AI destekli bir öğrenme asistanı.
 ---
 
 ## Daily Scrum Görseli:
-📎 Whatsapp üzerinden iletişim kurduk. Görev dağılımlarını yaptık  [https://github.com/zehra19/Yzta_bootcamp136/blob/main/Ekran%20Resmi%202025-07-09%2018.14.55.png]
-📎[https://github.com/zehra19/Yzta_bootcamp136/blob/main/Ekran%20Resmi%202025-07-06%2023.32.35.png]
+📎 Whatsapp üzerinden iletişim kurduk. Görev dağılımlarını yaptık  [https://github.com/zehra19/Yzta_bootcamp136/blob/main/assets/Ekran%20Resmi%202025-07-09%2018.14.55.png]
+📎[https://github.com/zehra19/Yzta_bootcamp136/blob/main/assets/Ekran%20Resmi%202025-07-06%2023.32.35.png]
 
 ## Sprint Board (Trello / Miro):
-📎   [https://github.com/zehra19/Yzta_bootcamp136/blob/main/sprint%20board.png]
+📎   [https://github.com/zehra19/Yzta_bootcamp136/blob/main/assets/sprint%20board.png]
 
 ##  Ürün Ekran Görüntüsü (Taslak):
-📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/spot_ekran.png]
+📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/assets/spot_ekran.png]
 
 ---
 
@@ -175,7 +175,7 @@ Kullanıcının filtreleme, istatistiksel veri görüntüleme, spot bilgi alma v
 
 📎 Herkes görev dağılımına göre işlerini halletti.  
 
-📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/sprintt2.jpg]
+📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/assets/sprintt2.jpg]
 
 
 
@@ -183,9 +183,9 @@ Kullanıcının filtreleme, istatistiksel veri görüntüleme, spot bilgi alma v
 
 [Sprint Board Görseli]
 
-📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/sprint%202%20board.png]
+📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/assets/sprint%202%20board.png]
 
-📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/sprint%202.png]
+📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/assets/sprint%202.png]
 
 
 
