@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/zehra19/Yzta_bootcamp136/blob/main/TUScope.png" alt="TUScope Logo" width="250"/>
+  <img src="https://github.com/zehra19/Yzta_bootcamp136/blob/main/assets/TUScope.png" alt="TUScope Logo" width="250"/>
 </p>
 
 <h1 align="center">🧠 TUScope</h1>
@@ -85,14 +85,14 @@ bir arada sunan, AI destekli bir öğrenme asistanı.
 ---
 
 ## Daily Scrum Görseli:
-📎 Whatsapp üzerinden iletişim kurduk. Görev dağılımlarını yaptık  [https://github.com/zehra19/Yzta_bootcamp136/blob/main/Ekran%20Resmi%202025-07-09%2018.14.55.png]
-📎[https://github.com/zehra19/Yzta_bootcamp136/blob/main/Ekran%20Resmi%202025-07-06%2023.32.35.png]
+📎 Whatsapp üzerinden iletişim kurduk. Görev dağılımlarını yaptık  [https://github.com/zehra19/Yzta_bootcamp136/blob/main/assets/Ekran%20Resmi%202025-07-09%2018.14.55.png]
+📎[https://github.com/zehra19/Yzta_bootcamp136/blob/main/assets/Ekran%20Resmi%202025-07-06%2023.32.35.png]
 
 ## Sprint Board (Trello / Miro):
-📎   [https://github.com/zehra19/Yzta_bootcamp136/blob/main/sprint%20board.png]
+📎   [https://github.com/zehra19/Yzta_bootcamp136/blob/main/assets/sprint%20board.png]
 
 ##  Ürün Ekran Görüntüsü (Taslak):
-📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/spot_ekran.png]
+📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/assets/spot_ekran.png]
 
 ---
 
@@ -175,7 +175,7 @@ Kullanıcının filtreleme, istatistiksel veri görüntüleme, spot bilgi alma v
 
 📎 Herkes görev dağılımına göre işlerini halletti.  
 
-📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/sprintt2.jpg]
+📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/assets/sprintt2.jpg]
 
 
 
@@ -183,9 +183,9 @@ Kullanıcının filtreleme, istatistiksel veri görüntüleme, spot bilgi alma v
 
 [Sprint Board Görseli]
 
-📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/sprint%202%20board.png]
+📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/assets/sprint%202%20board.png]
 
-📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/sprint%202.png]
+📎 [https://github.com/zehra19/Yzta_bootcamp136/blob/main/assets/sprint%202.png]
 
 
 
@@ -194,5 +194,125 @@ Kullanıcının filtreleme, istatistiksel veri görüntüleme, spot bilgi alma v
 - Görev dağılımları Sprint planına göre sürdü.
 - Zaman yönetimi bazı alanlarda sıkıştı, PDF ve test süreci Sprint 3'e taşınabilir.
 - Takım içi iletişim güçlüydü, teknik destek hızlı sağlandı.
+
+
+# 🏆 Sprint 3 - TUScope Mini (Final Sprint)
+
+Merhaba! Ben **Yasemin** 👋  
+Bu sprint, **TUScope Mini** projesinin **son sprinti** oldu.  
+Amacım, TUS’a hazırlanan öğrenciler için 7 ana ders kategorisinde spot bilgiler ve mini testler sunan interaktif bir uygulamayı tamamlamaktı.  
+
+---
+
+## 📌 Sprint 3 Hedeflerim
+- 7 bölümlük quiz sistemini tamamlamak  
+- Spot bilgileri eklemek  
+- Doğru/yanlış geri bildirimleri ve doğru sayısı göstermek  
+- Streamlit arayüzünü son hâline getirmek  
+- Uygulamayı test edip ekran görüntüleri almak  
+
+---
+
+## 🛠️ Yaptıklarım ve Puanlamam
+
+### 1️⃣ 7 Bölümlük Quiz Sistemi Kurulumu (25/25)
+- **Yaptığım İş:**  
+  - Anatomi, Biyokimya, Fizyoloji, Farmakoloji, Mikrobiyoloji, Patoloji ve Histoloji olmak üzere **7 bölüm** ekledim.  
+  - Her bölüm için **2 soru** olacak şekilde mini quizler tasarladım.  
+- **Sonuç:** Kullanıcılar istediği bölümü seçip iki soruluk mini testi çözebiliyor.  
+- **Puan:** ✅ 25/25
+
+---
+
+### 2️⃣ Spot Bilgiler Ekleme (15/15)
+- **Yaptığım İş:**  
+  - Her dersin başına, soruları çözmeden önce hızlıca gözden geçirilebilecek **spot bilgiler** ekledim.  
+  - Örnek:  
+    - *Farmakoloji:* “Parasempatolitikler asetilkolin etkisini gösterir.”  
+- **Puan:** ✅ 15/15
+
+---
+
+### 3️⃣ Doğru/Yanlış Geri Bildirimi ve Skor (20/20)
+- **Yaptığım İş:**  
+  - Kullanıcı bir cevabı seçtiğinde anında **Doğru!** veya **Yanlış!** mesajı gösteriliyor.  
+  - Yanlışsa doğru cevabı da gösterdim.  
+  - Quiz sonunda **Toplam Doğru Sayısı** ekledim.  
+- **Puan:** ✅ 20/20
+
+---
+
+### 4️⃣ Streamlit Arayüzü ve Kullanıcı Deneyimi (20/20)
+- **Yaptığım İş:**  
+  - Dropdown menü ile **bölüm seçimi**  
+  - Doğru cevapta **yeşil kutu**, yanlış cevapta **kırmızı kutu**  
+  - Temiz ve minimal bir tasarım  
+- **Puan:** ✅ 20/20
+
+---
+
+### 5️⃣ Test ve Ekran Görüntüleri (10/10)
+- **Yaptığım İş:**  
+  - Tüm uygulamayı test ettim ve soruların doğru/yanlış çalıştığını kontrol ettim.  
+  - **3 farklı ekran görüntüsü** aldım ve README’ye ekledim.  
+- **Puan:** ✅ 10/10
+
+---
+
+## 📊 Sprint 3 Toplam Puan
+**90/90 ✅**  
+Bu sprint ile TUScope Mini projesi tamamlandı! 🎉  
+
+---
+
+## 📸 Ekran Görüntüleri
+
+### Uygulama'nın Terminelde açılımı
+[Uygulama Açılımı] 
+
+   📎[https://github.com/zehra19/Yzta_bootcamp136/blob/main/assets/Ekran%20Resmi%202025-08-02%2001.45.01.png]
+   
+   📎[https://github.com/zehra19/Yzta_bootcamp136/commit/dae213cf5db5c91e5972d557890e9864f772910b]
+
+### 7 Bölüm Arayüzü
+
+[TUScope Mini]
+[Uygulama Bölümleri]
+
+
+   📎[https://github.com/zehra19/Yzta_bootcamp136/commit/aca00020c76177cc895ed5b7a31ccea26093a130]
+   
+   📎[https://github.com/zehra19/Yzta_bootcamp136/commit/9901b93faf387b9897e138e35a6108c2d83386a6]
+
+---
+
+## 🚀 Uygulamayı Çalıştırmak
+
+```bash
+streamlit run TUScopeMini.py
+```
+
+Tarayıcıda açılacak: **http://localhost:8501**  
+
+---
+
+
+<p align="center">
+  <img src="https://github.com/zehra19/Yzta_bootcamp136/commit/90b9f7df3406471dc4df858abc6503e3032f8059" alt="TUScope Logo" width="250"/>
+</p>
+
+<h1 align="center">🧠 TUScope</h1>
+<p align="center">Uygulama Açılış</p>
+
+### 📝 Yasemin’in Sprint 3 Notu
+Bu sprintte projenin tüm hedefleri tamamlandı:  
+- 7 bölümlük quiz sistemi  
+- Spot bilgiler  
+- Doğru/yanlış geri bildirimleri  
+- Skor hesaplama  
+- Arayüz ve testler  
+
+TUScope Mini artık **kullanıma hazır** ✅
+
 
 
